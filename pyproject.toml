@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "pluto"
+version = "0.0.1"
+description = "A Python ORM"
+authors = ["christian@senshikaze.net"]
+
+[tool.poetry.dependencies]
+python = ">=3.6"
+
+[tool.poetry.dev-dependencies]
+pytest = ">=6.2.5"
