@@ -2,7 +2,7 @@
 name = "pluto"
 version = "0.0.1"
 description = "A Python ORM"
-authors = ["christian@senshikaze.net"]
+authors = ["Christian Smith <christian@senshikaze.net>"]
 
 [tool.poetry.dependencies]
 python = ">=3.6"
