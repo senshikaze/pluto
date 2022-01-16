@@ -5,7 +5,7 @@ from argparse import ArgumentError
 from enum import Enum
 from typing import Dict
 
-from databases import PlutoDatabase
+from pluto.databases import PlutoDatabase
 
 
 class Pluto:
